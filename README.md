@@ -1,4 +1,4 @@
-# Crack-MambaUNet
-Crack-MambaUNet: A State-Space Enhanced Multi-Scale Network for Pixel-Level Crack Segmentation
+# CrackAwareNet
+CrackAwareNet: A Continuity-Aware Lightweight Network for Fine Crack Segmentation
 
 The code will be released upon paper acceptance.
